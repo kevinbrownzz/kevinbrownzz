@@ -6,7 +6,7 @@ I'm currently a postgraduate student at Fudan University major in computer sinen
 
 - 🌱 I’m good at frontend development and backend development.
 - 💬 I like solving algorithm problems.
-- 📫 How to reach me: [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
+- 📫 How to reach me: [kevinnk2019@163.com](mailto:kevinnk2019@163.com)
 - ⚡ Fun fact: I love BigCamelCase!
 
 ## 🚀 Skills
@@ -36,5 +36,4 @@ I'm currently a postgraduate student at Fudan University major in computer sinen
 
 Check out my blog and homepage for articles and tutorials:
 
-- [ZQ` Homepage](https://homepage.zqzqsb.cn)
-- [ZQ` Blog](https://blog.zqzqsb.cn)
+- [Zhou` Blog](http://39.101.190.49:5173/)
