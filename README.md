@@ -28,7 +28,6 @@ I'm currently a postgraduate student at Fudan University major in computer sinen
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Zqzqsb&theme=purple&show_icons=true&hide_border=true&count_private=true" alt="Zqzqsb's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zqzqsb&theme=purple&hide_border=true" alt="Zqzqsb's Streak" height="165">
   </p>
 </div>
 
