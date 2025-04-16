@@ -25,11 +25,7 @@ I'm currently a postgraduate student at Fudan University major in computer sinen
 <!-- ![GitHub Snake Dark](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg)
 ![GitHub Snake Ocean](https://github.com/Zqzqsb/Zqzqsb/blob/output/ocean.gif) -->
 
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zqzqsb&theme=purple&show_icons=true&hide_border=true&count_private=true" alt="Zqzqsb's Stats" height="165">
-  </p>
-</div>
+
 
 ## 📝 Blog
 
