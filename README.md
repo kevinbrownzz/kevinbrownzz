@@ -21,13 +21,13 @@ I'm currently a postgraduate student at Fudan University major in computer sinen
 
 ### GitHub Activity Snake
 
-![GitHub Snake](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg)
-<!-- ![GitHub Snake Dark](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg)
-![GitHub Snake Ocean](https://github.com/Zqzqsb/Zqzqsb/blob/output/ocean.gif) -->
+![GitHub Snake](https://github.com/kevinbrownzz/kevinbrownzz/blob/output/github-snake.svg)
+<!-- ![GitHub Snake Dark](https://github.com/kevinbrownzz/kevinbrownzz/blob/output/github-snake-dark.svg)
+![GitHub Snake Ocean](https://github.com/kevinbrownzz/kevinbrownzz/blob/output/ocean.gif) -->
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kevinbrownzz&theme=purple&show_icons=true&hide_border=true&count_private=true" alt="Zqzqsb's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=kevinbrownzz&theme=purple&show_icons=true&hide_border=true&count_private=true" alt="kevinbrownzz's Stats" height="165">
   </p>
 </div>
 
